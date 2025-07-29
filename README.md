@@ -105,6 +105,6 @@ The schema is based on the following relational model:
 
 ## 📚 References
 
-- Kaggle Dataset: [Social Media Influencers 2022](https://www.kaggle.com/datasets)
+- Kaggle Dataset: [Social Media Influencers 2022](https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels?select=social+media+influencers+-+Tiktok+sep+2022.csv)
 - Project ER model and schema by Kevin Yu, 2025
 - See full data definitions in [`data_dictionary.md`](./data_dictionary.md)
